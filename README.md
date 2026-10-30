@@ -1,18 +1,25 @@
 # Website Profil Kelompok
 
-Website sederhana untuk tugas Open Source Pertemuan 7.
+## Deskripsi
+Website sederhana untuk memperkenalkan anggota kelompok
+dalam tugas mata kuliah Open Source.
+
+## Fitur
+- Informasi kelompok
+- Profil anggota
+- Tampilan responsif
 
 ## Teknologi
-- HTML
-- CSS
+- HTML5
+- CSS3
 
 ## Cara Menjalankan
 1. Clone repository.
 2. Buka folder proyek.
-3. Jalankan file index.html melalui browser.
+3. Buka index.html melalui browser.
 
-## Anggota Kelompok
-- Mahasiswa A
-- Mahasiswa B
-- Mahasiswa C
-- Mahasiswa D
+## Kontributor
+- wandi saputra 2441919033
+- putra aji pratama 2441919011
+- Muhammad arsyad roihan maualaya 244191045
+- kristanto cahyo nugroho 2441919038

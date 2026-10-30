@@ -15,3 +15,21 @@ header {
 main {
     padding: 25px;
 }
+
+@media (max-width: 600px) {
+    .kartu-anggota {
+        grid-template-columns: 1fr;
+    }
+
+    header {
+        padding: 20px 10px;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}

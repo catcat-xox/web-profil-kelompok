@@ -16,6 +16,23 @@ main {
     padding: 25px;
 }
 
+.anggota {
+    padding: 25px;
+}
+
+.kartu-anggota {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.kartu {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
 @media (max-width: 600px) {
     .kartu-anggota {
         grid-template-columns: 1fr;
@@ -32,4 +49,3 @@ main {
     h1 {
         font-size: 24px;
     }
-}
